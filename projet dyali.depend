@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684948099 source:c:\users\salma\documents\projet dyali\projet dyali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
